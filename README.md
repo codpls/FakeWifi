@@ -1,4 +1,4 @@
 FakeWifi
 ========
 
-使用可用无线网卡创建wifi热点，并截获所有经由此wifi的信息。 
+Create a Wi-Fi hot point by a wireless network card, and steal something. 
